@@ -44,6 +44,8 @@ Credits to [Crunnie's Repo](https://github.com/Crunnie/FNiOS-Archive?tab=readme-
 # Dead Links
 
 To report dead links, please create an issue
+
+
 *Before opening a new issue, check if someone else has already reported the same link*
 
 # Contributions
