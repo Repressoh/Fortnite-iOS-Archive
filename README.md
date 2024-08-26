@@ -16,7 +16,7 @@ Credits to [Crunnie's Repo](https://github.com/Crunnie/FNiOS-Archive?tab=readme-
 |5.40|Fortnite+Release-5.40-CL-4342997|[Google Drive](https://rebrand.ly/540CL4342997)|[Google Drive](https://drive.google.com/file/d/1-NoCya_lJHBLmPGlpUrtGZ3N-QY0Pp9Q/view)|
 |6.00|Fortnite+Release-6.00-CL-4395664|[Google Drive](https://rebrand.ly/600CL4395664)|[Google Drive](https://drive.google.com/file/d/1-OUM0FuMVtNBsODfnUbnHuKzAYcyLTyG/view)|
 |6.01|Fortnite+Release-6.01-CL-4413911|[Google Drive](https://rebrand.ly/601CL4413911)|[Google Drive](https://drive.google.com/file/d/1-S79qx_FAl8rhHhSF_j7rQ9539CT38LY/view)|
-|6.20|Fortnite+Release-6.20-CL-4503517|4[Google Drive](https://rebrand.ly/620CL4503517)|[Google Drive](https://drive.google.com/file/d/1-XvOnloqXaIiBWJqg6oeBLByzWo2ZDBW/view)|
+|6.20|Fortnite+Release-6.20-CL-4503517|[Google Drive](https://rebrand.ly/620CL4503517)|[Google Drive](https://drive.google.com/file/d/1-XvOnloqXaIiBWJqg6oeBLByzWo2ZDBW/view)|
 |7.20|Fortnite+Release-7.20-CL-4727874|[Google Drive](https://rebrand.ly/720CL4727874)|[Google Drive](https://drive.google.com/file/d/1-d9HfBfc_GoqRQxk2OOxpHpDs3sKqGe9/view)|
 |7.40|Fortnite+Release-7.40-CL-5011364|[Google Drive](https://rebrand.ly/740CL5011364)|[Google Drive](https://drive.google.com/file/d/1-eiqOX0uc_mejmWpFgKwceWT-lzqUUQ7/view)|
 |10.0|Fortnite+Release-10.0-CL-7655413|[Google Drive](https://rebrand.ly/1000CL7655413)|[Google Drive](https://drive.google.com/file/d/1-56zpHCYcjfcWUqMAPFd-rc9MBPvwb0S/view)|
