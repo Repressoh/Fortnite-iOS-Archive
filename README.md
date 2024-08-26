@@ -33,7 +33,7 @@ Credits to [Crunnie's Repo](https://github.com/Crunnie/FNiOS-Archive?tab=readme-
 |12.10|Fortnite+Release-12.10-CL-11932896|[Google Drive](https://rebrand.ly/1210CL11932896)|[Google Drive](https://drive.google.com/file/d/1084NEYDz2Rt15VSbjjfB9P6tp5DF3xI3/view)|
 |12.30|Fortnite+Release-12.30-CL-12502545|[Google Drive](https://rebrand.ly/1230CL12502545)|[Google Drive](https://drive.google.com/file/d/10BJVimAfHVKqyexfQ2rNqG8HbwvQTX3P/view)|
 |12.40|Fortnite+Release-12.40-CL-12743645|[Google Drive](https://rebrand.ly/1240CL12743645)|[Google Drive](https://drive.google.com/file/d/10C7tqHHVPTJDCgWDeRV2dU5obw33zy3O/view)|
-|13.40|Fortnite+Release-13.40-CL-14050091|[Google Drive](https://rebrand.ly/1340-CL-14050091)|[Google Drive](https://drive.google.com/file/d/10IGpedUoXx5ulVOxLKiVhxViD1Mj3Tfb/view)|
+|13.40|Fortnite+Release-13.40-CL-14050091|[Google Drive](https://rebrand.ly/1340-CL-14050091)|[Starfiles](https://drive.google.com/file/d/10IGpedUoXx5ulVOxLKiVhxViD1Mj3Tfb/view)|
 
 # Chapter 5
 
