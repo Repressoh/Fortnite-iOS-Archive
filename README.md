@@ -40,7 +40,7 @@ Credits to [Crunnie's Repo](https://github.com/Crunnie/FNiOS-Archive?tab=readme-
 |Version|Build|Requires Special Entitlements|Required Entitlements|Download|
 |:---:|:---:|:---:|:---:|:---:|
 |31.00|Fortnite+Release-31.00-CL-35522557|✔|"Extended Virtual Addressing", "Increased Memory Limit"|[Google Drive](https://rebrand.ly/3100CL35522557)|
-|31.00.02|++Fortnite+Release-31.00-CL-35668748|✔|"Extended Virtual Addressing", "Increased Memory Limit"|[Google Drive](https://rebrand.ly/3100CL35668748)|
+|31.00.02|Fortnite+Release-31.00-CL-35668748|✔|"Extended Virtual Addressing", "Increased Memory Limit"|[Google Drive](https://rebrand.ly/3100CL35668748)|
 
 # Dead Links
 
