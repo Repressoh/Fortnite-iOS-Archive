@@ -2,6 +2,8 @@
 
 The largest and most updated archive of iOS Fortnite Builds.
 
+**Everything is provided as-is. You won't get any support nor help.**
+
 # Chapter 1
 
 Credits to [Crunnie's Repo](https://github.com/Crunnie/FNiOS-Archive?tab=readme-ov-file) and its [Contributors](https://github.com/Crunnie/FNiOS-Archive?tab=readme-ov-file#credits)
