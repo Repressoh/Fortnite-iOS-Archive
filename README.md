@@ -39,6 +39,11 @@ Credits to [Crunnie's Repo](https://github.com/Crunnie/FNiOS-Archive?tab=readme-
 
 # Chapter 5
 
+> [!IMPORTANT]  
+> Fortnite requires special certificates to run.
+>
+> Check out Flekst0re to get your own certificate for cheap: [https://flekstore.com](https://flekstore.com/repressoh) ( by using this link, you will support my projects. Thanks! )
+
 |Version|Build|Requires Special Entitlements|Required Entitlements|Download|
 |:---:|:---:|:---:|:---:|:---:|
 |31.00|Fortnite+Release-31.00-CL-35522557|✔|"Extended Virtual Addressing", "Increased Memory Limit"|[Google Drive](https://rebrand.ly/3100CL35522557)|
