@@ -62,6 +62,17 @@ Credits to [Crunnie's Repo](https://github.com/Crunnie/FNiOS-Archive?tab=readme-
 |32.10|Fortnite+Release-32.10-CL-37958378|✔| "Extended Virtual Addressing", "Increased Memory Limit"|[Google Drive](https://drive.google.com/file/d/1gAD4jXMS6LKnwjHdKs3KOMZ2aQpAm2oo/view)|
 |32.11|Fortnite+Release-32.11-CL-38202817|✔| "Extended Virtual Addressing", "Increased Memory Limit"|[Google Drive](https://drive.google.com/file/d/1WOgVojQNIEeMjpXdOqURW90DK2Lspelb/view)|
 
+# Chapter 6
+
+> [!IMPORTANT]  
+> Fortnite requires special certificates to run.
+>
+> Check out Flekst0re to get your own certificate for cheap: [https://flekstore.com](https://flekstore.com/repressoh) ( by using this link, you will support my projects. Thanks! )
+
+|Version|Build|Requires Special Entitlements|Required Entitlements|Download|
+|:---:|:---:|:---:|:---:|:---:|
+|33.00|Fortnite+Release-33.00-CL-38324112|✔| "Extended Virtual Addressing", "Increased Memory Limit"|[Google Drive](https://drive.google.com/file/d/1ycK5TV8U3Mmk_ZyJWprHzJ8-9PF_xWog/view)|
+
 # Dead Links
 
 To report dead links, please create an issue
